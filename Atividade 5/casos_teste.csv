@@ -1,0 +1,7 @@
+caso,etapa_atual,tempo,esperado,obtido,situacao
+S01,E0,7.9 s,permanece E0 (vermelho),permanece E0,PASSA
+S02,E0,8.0 s,ativa E1 (verde),ativa E1,PASSA
+S03,E1,9.9 s,permanece E1 (verde),permanece E1,PASSA
+S04,E1,10.0 s,ativa E2 (amarelo),ativa E2,PASSA
+S05,E2,2.9 s,permanece E2 (amarelo),permanece E2,PASSA
+S06,E2,3.0 s,retorna E0 (vermelho),retorna E0,PASSA
